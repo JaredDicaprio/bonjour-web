@@ -1,6 +1,5 @@
-![](https://i.imgur.com/ISldpR4.png)
+![](https://i.imgur.com/Bp7sNtJ.png)
 
-
-`EasyBuy` Landing page built with HTML, CSS and Javascript
+`Bonjour` Landing page built with HTML, CSS and Javascript
 ## License
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/ALIFKI/easybuy-frontendblob/master/LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/danielwetan/bonjour-web/blob/master/LICENSE) file for details
